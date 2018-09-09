@@ -13,7 +13,6 @@ client.on('ready', function() {
 });
  
       client.on('ready', () => {
-              client.user.setActivity("2play | hp4ever", {type: 'LISTENING'});
      
       });
 /*
